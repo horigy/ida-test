@@ -181,11 +181,11 @@ button {
     width: 100%;
     padding: 10px;
     text-align: center;
-    background: #EEEEEE;
     border-radius: 10px;
     border: none;
     letter-spacing: -0.02em;
-    color: #B4B4B4;
+    background-color: #7BAE73;
+    color: #FFFEFB;
     margin-top: 11px;
 }
 </style>
